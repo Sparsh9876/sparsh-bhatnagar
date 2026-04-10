@@ -80,7 +80,7 @@ That full cycle — from a raw CSV to a dashboard a manager can act on — is wh
 ![Seaborn](https://img.shields.io/badge/Seaborn-Visualisation-4C8CBF?style=flat)
 
 **Platforms & Tools**
-
+https://github.com/Sparsh9876/fmcg-churn-intelligence
 ![GitHub](https://img.shields.io/badge/GitHub-Version%20Control-181717?style=flat&logo=github)
 ![pgAdmin](https://img.shields.io/badge/pgAdmin-Query%20Tool-336791?style=flat&logo=postgresql&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-Editor-007ACC?style=flat&logo=visualstudiocode)
@@ -89,7 +89,7 @@ That full cycle — from a raw CSV to a dashboard a manager can act on — is wh
 ---
 
 ## 📁 Projects
-### 🛒 [FMCG Customer Churn Intelligence Platform](https://github.com/sparshbhatnagar/fmcg-churn-intelligence)
+### 🛒 [FMCG Customer Churn Intelligence Platform](https://github.com/Sparsh9876/fmcg-churn-intelligence)
 `SQL` `Python` `Tableau` `Random Forest` · 250K users · ₹2.1Cr revenue at risk identified
 
 🔜 Uploading shortly:
