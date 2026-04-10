@@ -91,10 +91,12 @@ https://github.com/Sparsh9876/fmcg-churn-intelligence
 ## 📁 Projects
 ### 🛒 [FMCG Customer Churn Intelligence Platform](https://github.com/Sparsh9876/fmcg-churn-intelligence)
 `SQL` `Python` `Tableau` `Random Forest` · 250K users · ₹2.1Cr revenue at risk identified
+### 🛍️ [Zepto Product Analytics — SQL Case Study](https://github.com/Sparsh9876/zepto-sql-analysis)
+`PostgreSQL` `SQL` · 3,732 SKUs · 14 categories · 8 business questions answered
 
 🔜 Uploading shortly:
-- 🛍️ Zepto Product Analytics — PostgreSQL SQL Case Study
 - 🚲 Bike Sales Analytics — Excel Dashboard
+
 *More projects in progress...*
 
 ---
@@ -129,9 +131,9 @@ If you're a recruiter, hiring manager, or fellow analyst — my inbox is always 
 
 <div align="center">
 
-![Sparsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sparshbhatnagar&show_icons=true&hide_border=true&title_color=1B4F72&icon_color=1B4F72&text_color=374151&bg_color=ffffff)
+![Sparsh's GitHub Stats](https://github-readme-stats.vercel.app/api username=sparshbhatnagar&show_icons=true&hide_border=true&title_color=1B4F72&icon_color=1B4F72&text_color=374151&bg_color=ffffff)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sparshbhatnagar&layout=compact&hide_border=true&title_color=1B4F72&text_color=374151&bg_color=ffffff)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/ username=sparshbhatnagar&layout=compact&hide_border=true&title_color=1B4F72&text_color=374151&bg_color=ffffff)
 
 </div>
 
