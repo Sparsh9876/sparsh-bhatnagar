@@ -89,15 +89,32 @@ https://github.com/Sparsh9876/fmcg-churn-intelligence
 ---
 
 ## 📁 Projects
+
+> Each project was built to answer a specific business problem — not just to demonstrate a tool.
+
+---
+
 ### 🛒 [FMCG Customer Churn Intelligence Platform](https://github.com/Sparsh9876/fmcg-churn-intelligence)
-`SQL` `Python` `Tableau` `Random Forest` · 250K users · ₹2.1Cr revenue at risk identified
+`PostgreSQL` `Python` `scikit-learn` `Tableau` `pandas` `Random Forest`
+
+End-to-end churn analytics on 250,000 loyalty wallet users across 9 NCR Delhi hubs.
+Model flagged 75,210 high-risk users with ₹2.12 Crore in wallet revenue at stake.
+
+---
+
 ### 🛍️ [Zepto Product Analytics — SQL Case Study](https://github.com/Sparsh9876/zepto-sql-analysis)
-`PostgreSQL` `SQL` · 3,732 SKUs · 14 categories · 8 business questions answered
+`PostgreSQL` `pgAdmin` `SQL`
 
-🔜 Uploading shortly:
-- 🚲 Bike Sales Analytics — Excel Dashboard
+Pure SQL analysis of 3,732 SKUs across 14 quick-commerce categories.
+Found 453 out-of-stock products and clear pricing gaps in premium SKUs.
 
-*More projects in progress...*
+---
+
+### 🚲 [Bike Sales Analytics — Excel Dashboard](https://github.com/Sparsh9876/bike-sales-excel-dashboard)
+`Excel` `Pivot Tables` `Dashboard Design`
+
+Customer purchase analysis across 1,026 buyers in 3 global regions.
+Key finding: income gap between buyers and non-buyers is just $2,447 — age and commute matter far more.
 
 ---
 
@@ -112,9 +129,9 @@ https://github.com/Sparsh9876/fmcg-churn-intelligence
 
 ## 📬 Let's Connect
 
-I'm actively looking for **Data Analyst / Business Intelligence** roles — full-time or internship — where the work involves real business problems, not just reporting.
+I'm actively looking for **Data Analyst / Business Intelligence / Data Science** roles — full-time or internship — where the work involves real business problems, not just reporting.
 
-I'm particularly interested in **FMCG, FinTech,MNCs, and E-Commerce** — or any organisation with European operations where my German language background adds genuine value.
+I'm particularly interested in **FMCG, FinTech, MNCs, and E-Commerce** — or any organisation with European operations where my German language background adds genuine value.
 
 If you're a recruiter, hiring manager, or fellow analyst — my inbox is always open.
 
@@ -131,9 +148,9 @@ If you're a recruiter, hiring manager, or fellow analyst — my inbox is always 
 
 <div align="center">
 
-![Sparsh's GitHub Stats](https://github-readme-stats.vercel.app/api username=sparshbhatnagar&show_icons=true&hide_border=true&title_color=1B4F72&icon_color=1B4F72&text_color=374151&bg_color=ffffff)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sparsh9876&show_icons=true&hide_border=true&title_color=1B4F72&icon_color=1B4F72&text_color=374151&bg_color=ffffff)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/ username=sparshbhatnagar&layout=compact&hide_border=true&title_color=1B4F72&text_color=374151&bg_color=ffffff)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sparsh9876&layout=compact&hide_border=true&title_color=1B4F72&text_color=374151&bg_color=ffffff)
 
 </div>
 
