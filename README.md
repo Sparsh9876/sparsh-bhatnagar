@@ -147,9 +147,9 @@ If you're a recruiter, hiring manager, or fellow analyst — my inbox is always 
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sparsh9876&show_icons=true&hide_border=true&title_color=1B4F72&icon_color=1B4F72&text_color=374151&bg_color=ffffff)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sparsh-bhatnagar&show_icons=true&hide_border=true&title_color=1B4F72&icon_color=1B4F72&text_color=374151&bg_color=ffffff)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sparsh9876&layout=compact&hide_border=true&title_color=1B4F72&text_color=374151&bg_color=ffffff)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sparsh-bhatnagar&layout=compact&hide_border=true&title_color=1B4F72&text_color=374151&bg_color=ffffff)
 
 </div>
 
