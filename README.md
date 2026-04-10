@@ -89,14 +89,12 @@ That full cycle — from a raw CSV to a dashboard a manager can act on — is wh
 ---
 
 ## 📁 Projects
+### 🛒 [FMCG Customer Churn Intelligence Platform](https://github.com/sparshbhatnagar/fmcg-churn-intelligence)
+`SQL` `Python` `Tableau` `Random Forest` · 250K users · ₹2.1Cr revenue at risk identified
 
-> Projects are being uploaded. Check back soon — or watch this profile to get notified.
-
-🔜 **Uploading shortly:**
-- 🛒 FMCG Customer Churn Intelligence Platform — SQL · Python · Tableau · Random Forest
+🔜 Uploading shortly:
 - 🛍️ Zepto Product Analytics — PostgreSQL SQL Case Study
 - 🚲 Bike Sales Analytics — Excel Dashboard
-
 *More projects in progress...*
 
 ---
