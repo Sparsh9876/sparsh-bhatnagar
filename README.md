@@ -52,7 +52,7 @@ I don't just make charts. The work I do usually follows this pattern:
 > **Business Question → Data Pipeline → SQL / Python Analysis → Visual Insight → Recommendation**
 
 That full cycle — from a raw CSV to a dashboard a manager can act on — is what I build through every project.
-
+     
 **Where I spend most of my time:**
 - Writing SQL queries that answer real business questions — joins, window functions, CTEs, cohort analysis
 - Cleaning messy data properly — not just dropping nulls, but understanding *why* they exist
