@@ -28,7 +28,7 @@
 ---
 
 ## 👋 About Me
-
+  
 I'm a **Data Analytics professional** and **MCA student specialising in Machine Learning & AI** at Amity University, Noida.
 
 My interest in data started simply — I wanted to understand *why* businesses make the decisions they do. Turns out, the answer is almost always hiding inside a dataset somewhere.
