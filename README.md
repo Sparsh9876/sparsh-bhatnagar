@@ -117,7 +117,7 @@ Key finding: income gap between buyers and non-buyers is just $2,447 — age and
 
 ---
 
-### 🚲 [credit-card-fraud-detection  end- to-end project](https://github.com/Sparsh9876/bike-sales-excel-dashboard)
+### 💳 [credit-card-fraud-detection  end- to-end project](https://github.com/Sparsh9876/credit_card_fraud_detection)
 `Excel` `Postgresql` `Python` ` EDA` `Powerbi` `Dashboard Design` `Business insights`
 
 🚧 Project Status : In Progress — actively being built. Updated regularly.
