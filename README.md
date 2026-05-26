@@ -1,6 +1,6 @@
 <div align="center">
 
-# Sparsh Bhatnagar
+# Sparsh Bhatnagar  
 
 ### I turn messy data into decisions that businesses can act on.
 
