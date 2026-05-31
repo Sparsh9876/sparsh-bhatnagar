@@ -4,7 +4,7 @@
 
 ### I turn messy data into decisions that businesses can act on.
 
-*Data Analytics · SQL · Python · Tableau · Open to Opportunities*
+*Data Analytics · SQL · Python · Power BI · Tableau · Open to Opportunities*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sparshbhatnagar/)
 [![Email](https://img.shields.io/badge/Gmail-Sparsh.Bhatnagar13@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:Sparsh.Bhatnagar13@gmail.com)
@@ -57,7 +57,7 @@ That full cycle — from a raw CSV to a dashboard a manager can act on — is wh
 - Writing SQL queries that answer real business questions — joins, window functions, CTEs, cohort analysis
 - Cleaning messy data properly — not just dropping nulls, but understanding *why* they exist
 - Building churn and segmentation models with scikit-learn
-- Designing Tableau dashboards that tell a story, not just display numbers
+- Designing Power BI and Tableau dashboards that tell a story, not just display numbers
 
 ---
 
@@ -78,8 +78,10 @@ That full cycle — from a raw CSV to a dashboard a manager can act on — is wh
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-Machine%20Learning-F7931E?style=flat&logo=scikitlearn&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-Charts-11557C?style=flat)
 ![Seaborn](https://img.shields.io/badge/Seaborn-Visualisation-4C8CBF?style=flat)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-DB%20Connection-CC2927?style=flat)
 
 **Platforms & Tools**
+
 ![GitHub](https://img.shields.io/badge/GitHub-Version%20Control-181717?style=flat&logo=github)
 ![pgAdmin](https://img.shields.io/badge/pgAdmin-Query%20Tool-336791?style=flat&logo=postgresql&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-Editor-007ACC?style=flat&logo=visualstudiocode)
@@ -90,6 +92,36 @@ That full cycle — from a raw CSV to a dashboard a manager can act on — is wh
 ## 📁 Projects
 
 > Each project was built to answer a specific business problem — not just to demonstrate a tool.
+
+---
+
+### 💳 [Credit Card Fraud Detection — End-to-End Analytics Project](https://github.com/Sparsh9876/credit_card_fraud_detection)
+`PostgreSQL` `Python` `pandas` `seaborn` `matplotlib` `SQLAlchemy` `Power BI` `DAX`
+
+**The business problem:** A financial institution needs to understand where, when, and why fraud is happening — and what to do about it.
+
+End-to-end fraud analytics pipeline on **1,000 credit card transactions** built with an industry-level workflow:
+- Designed a **PostgreSQL database** with proper constraints, indexes, and KPI views
+- Connected Python to PostgreSQL via **SQLAlchemy** and cleaned all 1,000 rows
+- Engineered **8 new features** — Age Group, Amount Bucket, Hour, Time of Day, Risk Flag
+- Built **9 publication-quality charts** using matplotlib and seaborn
+- Delivered a **3-page Power BI dashboard** with 6 cross-page slicers and DAX measures
+
+**Key findings:**
+
+| Finding | Value |
+|---|---|
+| Overall Fraud Rate | **49.1%** (industry avg: 2%) |
+| Highest Risk Category | **Online Shopping — 62.3%** |
+| Strongest Predictor | **≥3 Failed Attempts — 75.6% fraud** |
+| International Fraud Rate | **61.6%** |
+| Highest Risk City | **Chennai — 54.6%** |
+| Total Fraud Amount | **$1,473,833** |
+| Peak Fraud Hour | **7 PM** |
+
+**8 business recommendations delivered** — including real-time ML scoring, geo-velocity alerts, auto-card-lock after 3 failed attempts, and 3DS enforcement for online transactions.
+
+> *Skills demonstrated: end-to-end pipeline design · SQL database engineering · Python EDA · Power BI dashboard · DAX · business insight generation*
 
 ---
 
@@ -116,13 +148,6 @@ Customer purchase analysis across 1,026 buyers in 3 global regions.
 Key finding: income gap between buyers and non-buyers is just $2,447 — age and commute matter far more.
 
 ---
-
-### 💳 [credit-card-fraud-detection  end- to-end project](https://github.com/Sparsh9876/credit_card_fraud_detection)
-`Excel` `Postgresql` `Python` ` EDA` `Powerbi` `Dashboard Design` `Business insights`
-
-🚧 Project Status : In Progress — actively being built. Updated regularly.
----
-
 
 ## 🌱 Currently Learning
 
